@@ -1,0 +1,10 @@
+{
+	"name": "github-pager",
+	"private": true,
+	"description": "Application to edit GitHub Pages - also with Jekyll",
+	"version": "0.0.0",
+	"authors": [
+	  "MRW Neundorf <matt@nax.me> (http://nax.me)"
+	],
+	"license": "MIT"
+}

@@ -1,0 +1,9 @@
+.DS_Store
+
+/logs/
+*.log
+
+/.c9/
+/.idea/
+
+/node_modules/
